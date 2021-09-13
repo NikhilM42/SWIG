@@ -1,7 +1,7 @@
 import xlsxwriter
 import datetime
 
-workbook = xlsxwriter.Workbook('SWI_' + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + '.xlsx')
+workbook = xlsxwriter.Workbook('./output_swi/SWI_' + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + '.xlsx')
 worksheet = workbook.add_worksheet()
 worksheet.set_paper(3)
 
@@ -10,7 +10,7 @@ filenom = input('Enter file name: ')
 if (filenom == ''):
     filenom = 'SWI'
 
-f = open(filenom + '.txt','r')
+f = open('./instructions_src/'+filenom + '.txt','r')
 
 worksheet.set_row(0, 30)
 for x in range(0,18):
@@ -32,7 +32,7 @@ bf_13 = workbook.add_format({'font_size': 10, 'font_name': 'Arial', 'align': 'ce
 bf_14 = workbook.add_format({'left': 5, 'bottom': 5})
 bf_15 = workbook.add_format({'left': 5})
 
-worksheet.merge_range(0,0,0,2, 'Camtac MFG', bf_1)
+worksheet.merge_range(0,0,0,2, 'Company Name', bf_1)
 worksheet.merge_range(0,3,0,14, 'STANDARD WORK INSTRUCTION', bf_2)
 worksheet.merge_range(0,15,0,17, None, bf_11)
 worksheet.write_blank(1,0,None, bf_15)
