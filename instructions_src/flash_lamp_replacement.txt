@@ -1,0 +1,24 @@
+tFlash Lamp Replacement
+hWhen replacing the flash lamp ensure laser is powered off. Lift laser unit cover and connect the gorunding pin.
+hPush and hold the water drain button for a few seconds to ensure cradle is empty of water.
+hFirst unscrew and remove the two hex socket screws marked below.
+hNext unscrew the thre hex socket screws that bolt the flash lamp cradle to the enclosure. NOTE: Do not physically removed the screws there is a gasket and spring for each screw.
+wTilt the cradle forward, while making sure nothing falls out and remove the left and right flash lamp electrical connections.
+hGently push the flash lamp towards the right side from the left end. Store the old lamp in an empty flash lamp box and mark it "Used".
+hOpen a new flash lamp box and inspect the red rubber gaskets ensureing there are not signs of damage
+hInsert the new flashlamp carefully feeding from the right side, gently pushing left make sure both ends stick out evenly on both sides. NOTE: There is no click so be careful not to push the flashlamp too far inside.
+hReconnect the left and right flash lamp connections ensuring they are snug and proper.
+hPlace the cradle lid back on and begin installing the hex sockets screws in the reverse order that they were removed. NOTE: Ensure that the screws are snug, do not force them in too far.
+hEnsure flash lamp cradle is level visually or with a level. Check to make sure there is no widdle in the unit.
+tLaser Nozzle Alignment
+wFrom time to time the laser needs to be re-aligned so that it will contrinue to cut the part. On the HMI go into the Maintenance menu and enable "Maintenance Mode"
+wTake the setup fortress key out of the HMI and place it into the deadman switch lock in order to take the deadman switch trigger.
+rPut laser into "1 local" mode by turning the key on the power supply
+mWait for the green light to turn solid. If the green light is not on press the green button.
+rEnsure you have the proper Laser PPE. Holding the deadman switch will allow the laser to power on.
+mLower the shroud. Place the ceramic lollipop in front of the laser nozzle being adjusted. Use the deadman switch to ensure the laser is running while you are inside.
+hUse the HMI to flip the shutter in order to control which nozzle the laser will output from.
+h NOTE: ENSURE YOU ARE WEARING THE PROPER LASER SAFETY GOGGLES FOR THE NEXT STEPS!
+hPress number 2 on the laser remote to fire the laser beam. NOTE: The deadman switch must be squeezed at this stage for the laser to fire.
+hOne the side of the crackback unit there are two main screws to adjust the laser beam reflection. Screw (2) and (3) adjust the horizontal and vertical postion of the beam respectively.
+wAdjust screws (2) and (3) until you see a proper and consistent beam output form the nozzle onto the lollipop. Flip the shutter and repeat steps 1-3 in order to adjust the other nozzle.

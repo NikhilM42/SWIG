@@ -1,0 +1,14 @@
+tElements of Operation
+rSet the grinder to manual mode
+rStop both spindles and the coolant
+rTurn both keys to go into Setup mode and to use the pendant NOTE: The machine will give an alarm, hit reset and ignore the rest
+wSelect the hood up button and rotate the hood so you can see the grinder discs.
+rUsing the pendant, move the x and y axis to a position where you can access the bolts behind the discs. NOTE: The pendant has a dead man switch, you must squeeze lightly in order to move the machine.
+rPower off and lock out the machine as per the lockout placard
+rPick one bolt hole on the side of the double disc grinder wheel. This hole will be used to lift the disc out of the machine.
+rThe two bolts behind the disc near the hole selected in step X will be unbolted last. NOTE: DO NOT REMOVE THESE BOLTS UNTIL THE DISC IS BEING SUPPORTED BY THE CRANE!
+rRotate the wheel and begin removing the other bolts. NOTE: REMEMBER do not remove the final two bolts yet.
+rAttach an eye bolt on the selected hole from step X. Using the overhead plant crane and lift straps, lift the disc until there is some tension in the strap. This is to provide support to the disc as you remove the final two bolts. NOTE: DO NOT PROVIDE TOO MUCH TENSION AS YOU WILL DAMAGE THE MACHINE!
+rUnbolt the final two bolts. NOTE: ENSURE THE CRANE IS DIRECTLY OVERTOP OF THE DISC IN ORDER TO MINIMIZE SWING.
+rRemove the disc from the machine and place it on a wooden pallet stone side up.
+rRepeat steps X-X for the other disc.

@@ -1,0 +1,61 @@
+tFlash Lamp Replacement
+hWhen replacing the flash lamp ensure laser is powered off. Lift laser unit cover and connect the gorunding pin.
+hPush and hold the water drain button for a few seconds to ensure cradle is empty of water.
+hFirst unscrew and remove the two hex socket screws marked below.
+hNext unscrew the thre hex socket screws that bolt the flash lamp cradle to the enclosure. NOTE: Do not physically removed the screws there is a gasket and spring for each screw.
+wTilt the cradle forward, while making sure nothing falls out and remove the left and right flash lamp electrical connections.
+hGently push the flash lamp towards the right side from the left end. Store the old lamp in an empty flash lamp box and mark it "Used".
+hOpen a new flash lamp box and inspect the red rubber gaskets ensureing there are not signs of damage
+hInsert the new flashlamp carefully feeding from the right side, gently pushing left make sure both ends stick out evenly on both sides. NOTE: There is no click so be careful not to push the flashlamp too far inside.
+hReconnect the left and right flash lamp connections ensuring they are snug and proper.
+hPlace the cradle lid back on and begin installing the hex sockets screws in the reverse order that they were removed. NOTE: Ensure that the screws are snug, do not force them in too far.
+hEnsure flash lamp cradle is level visually or with a level. Check to make sure there is no wiggle in the unit.
+wClose laser unit cover. On the laser pendant select "Menu", select menu item number "2" and select "" to reset the flash lamp life
+wGo back to the main menu on the pendant, select item number "" and make sure the output voltage is set to greater than 300V.
+tLaser Nozzle Alignment
+wFrom time to time the laser needs to be re-aligned so that it will contrinue to cut the part. On the HMI go into the Maintenance menu and enable "Maintenance Mode"
+wTake the setup fortress key out of the HMI and place it into the deadman switch lock in order to take the deadman switch trigger.
+rPut laser into "1 local" mode by turning the key on the power supply
+mWait for the green light to turn solid. If the green light is not on press the green button.
+rEnsure you have the proper Laser PPE. Holding the deadman switch will allow the laser to power on.
+mLower the shroud. Place the ceramic lollipop in front of the laser nozzle being adjusted. Use the deadman switch to ensure the laser is running while you are inside. NOTE: If the laser nozzles are damaged, replace them before continuing.
+hUse the HMI to flip the shutter in order to control which nozzle the laser will output from.
+hENSURE YOU ARE WEARING THE PROPER LASER SAFETY GOGGLES FOR THE NEXT STEPS!
+hPress number 2 on the laser remote to fire the laser beam. NOTE: The deadman switch must be squeezed at this stage for the laser to fire.
+hOne the side of the crackback unit there are two main screws to adjust the laser beam reflection. Screw (2) and (3) adjust the horizontal and vertical postion of the beam respectively.
+wAdjust screws (2) and (3) until you see a proper and consistent beam output form the nozzle onto the lollipop. Flip the shutter and repeat steps 1-3 in order to adjust the other nozzle.
+tLaser Head Aluminum Mount Block Replacement
+wIf the laser head is ever crashed into a part or any object blocking its path during a cut, it is more than likely that the aluminum mount blocks inside the laser head have been damaged/broken. The blocks will either need replacing or the screws will need tightening.
+hEnsure the laser is powered off. Check the wiggle on the nozzle head.
+hGently push the nozzle head to that it is pushed up against the main body of the laser.
+hGently hand tighten the top mounting screws.
+hStop holding the nozzle head and check if it can wiggle again. If it does not wiggle, you can run the laser but you may need to do a nozzle realignment. If it wiggles then the mounting blocks need to be replaced, continue on to the next step.
+hRemove the airlines and open the top of the laser head.
+hRemove the bottom mount support as pictured below.
+wSupport the nozzle head with your one hand and start loosening the mount screws.NOTE: Do not unscrew the mounting screws completely!
+hRemove the nozzle head and set it aside in a safe spot, hole side up.
+hRemove the mounting blocks, by grabbing the metal spine they are connected to.
+hPull the mounting blocks out of their guide slots.
+hRotate the spine so that you can safely pull the mounting blocks out without damageing the lens.
+hThere is a skinny mounting block (Block A) and a thick mounting block (Block B).
+hTo remove block A from its lens you must first remove the lens frame. NOTE: Only touch the screws in the diagram as the other screws are used for laser alignment adjustment.
+hSet the screws and lens frame in a safe spot lens side up. Now you can access the screws used to connect the angle head to the block.
+hOnce the block is replaced simply remount the lens frame to the angle head.
+hTo remove block B from its lens you must first remove the lens frame. NOTE: Only touch the screws in the diagram as the other screws are used for laser alignment adjustment.
+hSet the screws and lens frame in a safe spot lens side up. Now you can access the screws used to connect the angle head to the block.
+hOnce the block is replaced simply remount the lens frame to the angle head.
+hTo put the blocks back into the head, once again grab the blocks by their metal spine.
+hSlide the blocks in at an angle.
+hRotate the blocks and push them into their respective slot. When you let go of the spine the blocks will sit tilted as the slot does not hold the blocks in place.
+wGrab the nozzle head and align the block B hole first.
+hGrab the metal spine of block B and push the block so it is sitting snuggly in its slot.
+hSimultaneously try to align the nozzle head hole for block B so that block B mounting flange can be inserted into the hole. NOTE: This step requires some patience as the flange sometimes is difficult to push into the nozzle head hole.
+hOnce block B has been mounted rotate the nozzle head and mount block A for the other side of the nozzle head. NOTE: Do not let go of the nozzle head for the next few steps as it is not connected to the laser head.
+hOnce the nozzle head has been connected to both mounting blocks, you can slide the nozzle head into position. NOTE: The nozzle head will be able to wiggle and slide at this mount. The mounting blocks will slide with the nozzle head.
+hGently tighten the bottom mount screw. The nozzle head and mounting blocks should still be able to slide at this stage.
+hInstall the bottom mount support back into its original location. Align the angled surface with the etch mark.
+wApply pressure between block B and the nozzle head so that they are flush with the laser head wall. Also slide the nozzle head so that it is snug against the bottome mount support. Gently tighten the top mount screw until the connection is feels somewhat rigid.
+hApply pressure between block A and the nozzle head so that they are flush with the laser head wall. Gently tighten the top and bottom mount screw until the connection feels rigid.
+hIf the connection does not feel rigid the screws may need more tightening. Gently tighten all three screws until the connection is rigid. Ensure that the nozle head is snug against the bottom mount support while you are tightening the mount screws.
+hClose the top of the laser head and reconnect the air lines.
+hFollow the laser nozzle alignment SWI steps

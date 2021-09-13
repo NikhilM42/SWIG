@@ -1,0 +1,4 @@
+tRegistration
+hNavigate to the Charity Republic Login. Link: https://launch.charityrepublic.com/auth/login
+hEnter your login code. NOTE: THIS CODE IS CASE SENSITIVE
+wClick the login button.
