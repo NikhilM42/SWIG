@@ -1,8 +1,8 @@
 # Welcome to the SWIG wiki!
 Standard Work Instruction Generator
 
-This script was started because I got tired of making standard work instructions by hand.
-The script reads a text file of instructions and generates an excel workbook.
+This script was started because I got tired of making standard work instructions by hand and was just dipping my toe into python. No one else really used it so here it lies gathering dust.
+The script reads a text file of instructions and generates an excel workbook. Plenty of room for improvement if I ever come back to this script. **WARNING** There is no error handling baked into this currently.
 The textfile has to follow some special rules as follows:
 
 ## Rules:
@@ -64,3 +64,6 @@ Half blocks will only be used with other half blocks
 
 >hStep 5\
 hStep 6
+
+## To Use
+Simply call the script from command line within its folder and provide it the name of the text file that has the instructionse when it asks. The script will automatically look inside the *instructions_src* folder located locally within the folder the script is in. The script will also generate the excel workbook in a folder called *output_swi*.

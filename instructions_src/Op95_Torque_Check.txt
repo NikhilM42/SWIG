@@ -1,8 +1,0 @@
-tElements of Operation
-hAt the beginning of shift take one part per honing machine nest from honing cell exit conveyor
-hSeperate cap and rod at op95 station. NOTE: Do not let part go through op95 check yet.
-wManually retorque part as per op30 process specification using op95 fixture. NOTE: USE A NEW SET OF BOLTS, SCRAP THE OLD ONES.
-hTake part to Honing cell, bypass Engis, add part to conveyor, make sure to cover up the barcode so that HMI shows the manual entry button for the barcode.
-hManually enter part barcode except change the final 5 digits to '0000#'
-hAllow part to go through wash and reach air gauge, visually check result screen to ensure roundness is to op95 process spec.
-hReintroduce part to op95 check.

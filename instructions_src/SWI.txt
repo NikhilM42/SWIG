@@ -1,27 +1,9 @@
-tElements of Operation
-hHandle parts with care. Gloves must be worn at all times.
-hRemove parts from skid.
-hInspect the lock notches inside crank bore.  No raised material allowed and 0.25 maximum edge break.
-hVerify the matching serial numbers to prevent mismatching.
-hInspect the joint face.  No breakout allowed on machined surfaces. All other areas, 6mm x 2mm max breakout.
-hPart must be burr free.
-hInside pin bore bushing must have complete bronze coverage.
-hPin bore must have chamfer present on both sides and no damage or burrs allowed.
-hNo damage permitted on crank bore faces
-hNo damage permitted on pin bore faces
-hVerify forging number is correct NOTE: For Stepped and Coplanar Rods only.
-hEnsure part is clean.  Must be free from oil and debris.
-hUsing the assigned functional slip gauge, verify retention hole meets required specification. NOTE: BIG BORE & B786 RODS ONLY.
-hUsing the assigned functional slip gauge, verify lock notch width is not undersize. NOTE: COPLANER & STEPPED RODS ONLY
-wUse PG0674 to check bushing orientation / presence of oil hole. NOTE: BIG BORE & B786 RODS ONLY.
-hCheck verification dot on bolts.
-hCheck verification dot on forging for op95.
-hCheck verification dot on forging for op40.
-hCheck verification dot on forging for op95.
-wPlace green verification dot with paint marker after passed inspection.
-wScan part into final release system and select all completed ODS checks.
-tInfrequent Elements of Operation
-hDo not inspect multiple part numbers at the same time. At changeover, label and remove all other part numbers from inspection station and place in designated area.
-hEnsure work station is clean and organized at all times.
-hCover completed inspected parts during extended periods of breaks.
-hAll rejected parts must be tagged and identified.
+tInstructions
+rStep 1
+rStep 2
+rStep 3
+wStep 4 NOTE: THE STEPS ARE PLACEHOLDERS FOR INSTRUCTIONS!
+hStep 5
+hStep 6
+mStep 7
+rStep 8
